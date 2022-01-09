@@ -1,5 +1,5 @@
 ### Wow, aren't readmes crazy?
-Gonna try learn github actions
+i wish i had cool stuff to put here
 
 <!--
 **DabestbroAgain/DabestbroAgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
